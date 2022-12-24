@@ -9,3 +9,5 @@ https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-dev
 ### Practicing 
 
 React, Sass, vsCode, Git, Github, JSON
+
+Followed this walkthrough: https://www.youtube.com/watch?v=EDWwhVoCvHM&list=WL&index=31&t=3987s
